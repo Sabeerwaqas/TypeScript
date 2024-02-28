@@ -1,3 +1,3 @@
-const user = {name:"Sabeer", age:10};
-console.log(user.name);
+const user = {person:"Sabeer", age:10};
+console.log(user.person);
 
